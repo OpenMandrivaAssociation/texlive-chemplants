@@ -1,6 +1,6 @@
 Name:		texlive-chemplants
 Version:	60606
-Release:	1
+Release:	2
 Summary:	Symbology to draw chemical plants with TikZ
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/chemplants
